@@ -1,2 +1,2 @@
-# astro
+# Astro
 Astro Themes
